@@ -1,0 +1,360 @@
+﻿.ax_default {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.box_2 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  color:#333333;
+}
+._图片 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  color:#333333;
+}
+._一级标题 {
+  font-family:'思源黑体';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  color:#333333;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'思源黑体';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  color:#333333;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'思源黑体';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  color:#333333;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'思源黑体';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'思源黑体';
+  font-weight:bold;
+  font-style:normal;
+  color:#333333;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'思源黑体';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  color:#333333;
+  text-align:left;
+}
+.label {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+  text-align:left;
+}
+._文本段落 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  color:#333333;
+  text-align:left;
+}
+._流程形状 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  color:#333333;
+}
+.line {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  color:#333333;
+}
+.text_field {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.icon {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+}
+._形状 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#666666;
+}
+._默认样式 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#666666;
+}
+.primary_button {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+.box_3 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+}
+.ellipse {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+}
+.box_1 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+}
+._文本段落1 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+.button {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+}
+.checkbox {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+._默认样式1 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+}
+._鼠标按下文本链接时 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+}
+.heading_2 {
+  font-family:'思源黑体';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.box_21 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+}
+.image {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  color:#000000;
+}
+.box_11 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+}
+.shape {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.icon1 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+}
+.box_31 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+}
+.line1 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+}
+.label1 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.image1 {
+}
+.ellipse1 {
+}
+.primary_button1 {
+  color:#FFFFFF;
+}
+.connector {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.paragraph {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+.heading_1 {
+  font-family:'思源黑体';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.shape1 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+}
+.horizontal_line {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+}
+.flow_shape {
+}
+._图片_ {
+}
+.shape2 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.box_22 {
+}
+.line2 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+._28号字_页面备注信息及列表的表头说明文字__） {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.table_cell {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+._36号字_顶部标题、大按钮、弹窗提示主标题_ {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._30号字_服务主标题，例如双行列表内的下方描述信息。__） {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._默认样式2 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+.icon2 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+.paragraph1 {
+  text-align:left;
+}
+.shape3 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.box_12 {
+}
+.box_23 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+.line3 {
+}
+.text_field1 {
+  color:#000000;
+  text-align:left;
+}
+.box_32 {
+}
+._图片1 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
